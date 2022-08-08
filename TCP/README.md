@@ -1,4 +1,6 @@
-# TCP_Sync
+# TCP Communication with Synchronous Applicaton.
+
+This project is a CONSOLE APPLICATION and was written for .NET Framework, Version=v4.6.1 .
 
 The zip file "TCP_Sync.zip" has the project and source files of a C# application that opens a TCP communication between a client and a server hosts. 
 
@@ -28,7 +30,6 @@ To use the application:
 
 *) statistics and exceptions will be shown in the console of both instances.
 
-This project was written for .NET Framework, Version=v4.6.1 .
 
 Vinicius Calil 2018/11/14.
 
