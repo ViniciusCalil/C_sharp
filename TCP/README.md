@@ -1,4 +1,4 @@
-# TCP Communication with Synchronous Applicaton.
+# TCP Communication with Synchronous Application.
 
 This project is a CONSOLE APPLICATION and was written for .NET Framework, Version=v4.6.1 .
 
