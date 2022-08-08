@@ -1,4 +1,4 @@
-#List the Files and Subdirectory of a Subtree.
+# List the Files and Subdirectories of a Subtree.
 
 This project is a WINDOWS FORMS APPLICATION and was written for .NET Framework, Version=v4.6 .
 
